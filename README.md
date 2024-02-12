@@ -53,4 +53,5 @@ It's OK. Proof: https://zmk.dev/docs/troubleshooting#file-transfer-error
 ### Add mouse movements
 
 Old way - https://gist.github.com/krissen/dd27082e7ab0575619c7a31f4d2ec7ae
+
 New way - https://github.com/zmkfirmware/zmk/pull/2027
